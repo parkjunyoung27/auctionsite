@@ -23,9 +23,10 @@
 }
 
 .cs_service{
-	width:40%;
-	box-sizing: border-box;
-	margin-right: 100px;
+	width: 40%;
+    box-sizing: border-box;
+    margin-right: 10%;
+    text-align: end;
 }
 
 .cs_service_title{
@@ -77,7 +78,7 @@
 .footer_menu{
 	display: flex;
 	width: 40%;
-	margin-left: 100px;
+	margin-left: 10%;
 }
 
 .menu_box{

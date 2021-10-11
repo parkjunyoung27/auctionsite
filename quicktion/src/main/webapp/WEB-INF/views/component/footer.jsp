@@ -12,7 +12,7 @@
 				<strong><a alt="고객 상담" class="cs_consultant">카톡 실시간 상담</a></strong>
 				<div class="service_time">
 					<div class="time_box">
-						<p class="sc_text">운영시간 : 평일 09:00 ~ 18:00(공휴일 휴무)</p>
+						<p class="sc_text">운영시간 : 09:00 ~ 18:00(공휴일 휴무)</p>
 						<p class="sc_text">점심시간 : 13:00 ~ 14:00</p>
 					</div>
 					<p class="sc_text">고객문의는 운영시간 내 실시간 채팅으로 가능합니다.</p>

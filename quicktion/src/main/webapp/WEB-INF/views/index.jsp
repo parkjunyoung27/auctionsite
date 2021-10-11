@@ -2,26 +2,28 @@
     pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 
-    
 <!DOCTYPE html>
 <html>
 <head>
 	<meta charset="UTF-8">
-		<title>Quicktion | 중고상품의 가치가 궁금할땐</title>
+	<title>Quicktion | 중고상품의 가치가 궁금할땐</title>
 	<link href="./resources/css/index.css" rel="stylesheet">
 	<link href="./resources/css/header.css" rel="stylesheet">
 	<link href="./resources/css/footer.css" rel="stylesheet">
 </head>
-	<header>
-		<%@ include file="./component/navbar.jsp"%>
-		<%@ include file="./component/searchbar.jsp"%>
-	</header>
-	<body>
-		<div class="hero-header"></div>
-		<div class="time-limit">
-			<%@ include file="./component/time.jsp"%>	
-		</div>
+<body>
+
+		<header>
+			<%@ include file="./component/navbar.jsp"%>
+			<%@ include file="./component/searchbar.jsp"%>
+	
+			<div class="hero-header"></div>
+			<div class="time-limit">
+				<%@ include file="./component/time.jsp"%>	
+			</div>
+		</header>
 		
+	<main>
 		<div class="main_product">
 			<div class="main_title">
 				<div class="main_title_2">HOT</div>
@@ -29,7 +31,7 @@
 			</div>
 			<div class="product_list_container">
 				<div class="product_list"> 
-				
+					
 					<div class="item">
 						<a href='#' class="item_enter">
 							<div class="thumbnail_box">
@@ -54,13 +56,15 @@
 							</div>		
 						</a>
 					</div>
-
-				</div>
-			 </div>
-		</div>
-
 	
+				</div>
+			</div>
+		</div>
+	</main>
+
+	<footer>
 		<%@ include file="./component/footer.jsp"%>
+	</footer>
 		
 		
 <!--Start of Tawk.to Script, 상담-->
@@ -78,5 +82,5 @@
 </script>
 <!--End of Tawk.to Script-->
 
-	</body>
+</body>
 </html>
