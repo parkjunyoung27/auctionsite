@@ -31,11 +31,11 @@
 ![게시판 상세보기](https://user-images.githubusercontent.com/73810338/143728755-60da8a2c-74f4-41c7-b80e-bfcc074c7ea3.PNG)<br><br>
 [설명] 게시판 페이지입니다.
 
-# DB 설계 
+# DB 설계<br> 
 
-![쇼핑몰 DB설계(4)](https://user-images.githubusercontent.com/73810338/143728920-315ada51-0e39-4ddb-acb6-87a88057577e.png)
+![쇼핑몰 DB설계(4)](https://user-images.githubusercontent.com/73810338/143728920-315ada51-0e39-4ddb-acb6-87a88057577e.png)<br>
 
-# 플로우 차트 설계
+# 플로우 차트 설계<br>
 
-![플로우차트 drawio](https://user-images.githubusercontent.com/73810338/143728934-25f11633-ae82-4e10-a261-b597a8a7c016.png)
+![플로우차트 drawio](https://user-images.githubusercontent.com/73810338/143728934-25f11633-ae82-4e10-a261-b597a8a7c016.png)<br>
 
